@@ -1,4 +1,4 @@
-<div class="container">
+<div class="w-screen">
 
     <!-- Statistic Bar -->
     <div class="row text-center">
@@ -46,44 +46,42 @@
 
     <!-- Transactions List -->
     <div class="row">
-        <div class="col-md-12">
-            <div class="m-t-10 card">
-                <table class="table">
-                    <thead>
-                        <tr>
-                            <th>Date</th>
-                            <th>Source</th>
-                            <th>Type</th>
-                            <th>Status</th>
-                            <th>Amount</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>11, Jun 2019</td>
-                            <td>I will do a blog post for you</td>
-                            <td>trans</td>
-                            <td>approved</td>
-                            <td class="text-right">
-                                <span class="text-success">
-                                    + $12.0
-                                </span>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>14, Jun 2019</td>
-                            <td>I will check your SEO website</td>
-                            <td>trans</td>
-                            <td>approved</td>
-                            <td class="text-right">
-                                <span class="text-danger">
-                                    - $8.0
-                                </span>
-                            </td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div> 
+        <div class="col-md-10 col-md-offset-1">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Date</th>
+                        <th>Source</th>
+                        <th>Type</th>
+                        <th>Status</th>
+                        <th>Amount</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>11, Jun 2019</td>
+                        <td>I will do a blog post for you</td>
+                        <td>trans</td>
+                        <td>approved</td>
+                        <td class="text-right">
+                            <span class="text-success">
+                                + $12.0
+                            </span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>14, Jun 2019</td>
+                        <td>I will check your SEO website</td>
+                        <td>trans</td>
+                        <td>approved</td>
+                        <td class="text-right">
+                            <span class="text-danger">
+                                - $8.0
+                            </span>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
         </div>
     </div>
     
