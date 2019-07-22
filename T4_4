@@ -1,0 +1,68 @@
+<section class="section">
+    <div class="columns">
+    
+        <div class="column is-4">
+            <nav class="menu">
+                <p class="menu-label">
+                    All Conversations
+                </p>
+                <ul class="menu-list">
+                    <li>
+                        <article class="message">
+                            <div class="message-body">
+                                <div class="media">
+                                    <div class="media-left">
+                                        <figure class="image is-32x32 m-r-5 avatar online">
+                                            <img src="https://i.pravatar.cc/100" class = "is-rounded">
+                                        </figure>
+                                    </div>                                
+                                    <div class="media-content">
+                                        <p class="title is-6">Lisa Smith</p>
+                                        <p class="subtitle is-7">
+                                            "Halo, my friend"
+                                        </p>
+                                    </div>
+                                    <div class="media-right">
+                                        <p class="subtitle is-7">Jun 2019</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </article>                    
+                    </li>
+                    <li>
+                        <article class="message">
+                            <div class="message-body">
+                                <div class="media">
+                                    <div class="media-left">
+                                        <figure class="image is-32x32 m-r-5 avatar offline">
+                                            <img src="https://i.pravatar.cc/200" class = "is-rounded">
+                                        </figure>
+                                    </div>                                
+                                    <div class="media-content">
+                                        <p class="title is-6">Tony Stark</p>
+                                        <p class="subtitle is-7">
+                                            "I have a question for this gig"
+                                        </p>
+                                    </div>
+                                    <div class="media-right">
+                                        <p class="subtitle is-7">Jun 2019</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </article>                    
+                    </li>
+                </ul>
+            </nav>
+        </div>
+
+        <div class="column is-8">
+            <section class="hero">
+                <div class="hero-body">
+                    <p class="subtitle has-text-centered">
+                        Select a conversion
+                    </p>
+                </div>
+            </section>
+        </div>
+    </div>
+</section>
